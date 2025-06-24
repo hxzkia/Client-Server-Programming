@@ -34,3 +34,15 @@ The `Appointment System` is a desktop application built using Visual Basic .NET.
 * **SQL Server**: For the backend database.
 
 * **Microsoft.Office.Interop.Excel**: For generating Excel reports.
+
+## App Preview
+### Login
+![Login Screen](Images/LoginForm.png "Application Login Form")
+### Patients
+![Login Screen](Images/PatientsForm.png "Application Patient Form")
+### Doctors
+![Login Screen](Images/DoctorsForm.png "Application Doctor Form")
+### Appointments
+![Login Screen](Images/AppointmentForm.png "Application Appointment Form")
+### Report
+![Login Screen](Images/Report.png "Application Report")
