@@ -1,0 +1,5 @@
+ServerAddress = .
+DBInstance = SQLExpress
+DBName = AppointmentSystem
+UserDB = Hizkia
+PassDB = 12345

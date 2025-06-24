@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\IKADO\\Semester 5\\Client Server Programming\\Appointment System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0854D2-DBE3-4D75-AC21-935C27649B21}|Appointment System.vbproj|f:\\ikado\\semester 5\\client server programming\\appointment system\\appointments\\frmaddappointment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DE0854D2-DBE3-4D75-AC21-935C27649B21}|Appointment System.vbproj|solutionrelative:appointments\\frmaddappointment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0854D2-DBE3-4D75-AC21-935C27649B21}|Appointment System.vbproj|f:\\ikado\\semester 5\\client server programming\\appointment system\\appointments\\frmaddappointment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DE0854D2-DBE3-4D75-AC21-935C27649B21}|Appointment System.vbproj|solutionrelative:appointments\\frmaddappointment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0854D2-DBE3-4D75-AC21-935C27649B21}|Appointment System.vbproj|f:\\ikado\\semester 5\\client server programming\\appointment system\\appointments\\frmappointmentslist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DE0854D2-DBE3-4D75-AC21-935C27649B21}|Appointment System.vbproj|solutionrelative:appointments\\frmappointmentslist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0854D2-DBE3-4D75-AC21-935C27649B21}|Appointment System.vbproj|F:\\IKADO\\Semester 5\\Client Server Programming\\Appointment System\\specializations\\frmspecializationslist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DE0854D2-DBE3-4D75-AC21-935C27649B21}|Appointment System.vbproj|solutionrelative:specializations\\frmspecializationslist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0854D2-DBE3-4D75-AC21-935C27649B21}|Appointment System.vbproj|F:\\IKADO\\Semester 5\\Client Server Programming\\Appointment System\\specializations\\frmspecializationslist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DE0854D2-DBE3-4D75-AC21-935C27649B21}|Appointment System.vbproj|solutionrelative:specializations\\frmspecializationslist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0854D2-DBE3-4D75-AC21-935C27649B21}|Appointment System.vbproj|F:\\IKADO\\Semester 5\\Client Server Programming\\Appointment System\\report\\excelspecializationreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DE0854D2-DBE3-4D75-AC21-935C27649B21}|Appointment System.vbproj|solutionrelative:report\\excelspecializationreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0854D2-DBE3-4D75-AC21-935C27649B21}|Appointment System.vbproj|F:\\IKADO\\Semester 5\\Client Server Programming\\Appointment System\\report\\exceldoctorreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DE0854D2-DBE3-4D75-AC21-935C27649B21}|Appointment System.vbproj|solutionrelative:report\\exceldoctorreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0854D2-DBE3-4D75-AC21-935C27649B21}|Appointment System.vbproj|F:\\IKADO\\Semester 5\\Client Server Programming\\Appointment System\\report\\exceluserreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DE0854D2-DBE3-4D75-AC21-935C27649B21}|Appointment System.vbproj|solutionrelative:report\\exceluserreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAddAppointment.vb",
+              "DocumentMoniker": "F:\\IKADO\\Semester 5\\Client Server Programming\\Appointment System\\Appointments\\frmAddAppointment.vb",
+              "RelativeDocumentMoniker": "Appointments\\frmAddAppointment.vb",
+              "ToolTip": "F:\\IKADO\\Semester 5\\Client Server Programming\\Appointment System\\Appointments\\frmAddAppointment.vb",
+              "RelativeToolTip": "Appointments\\frmAddAppointment.vb",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-09T08:03:00.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAddAppointment.vb [Design]",
+              "DocumentMoniker": "F:\\IKADO\\Semester 5\\Client Server Programming\\Appointment System\\Appointments\\frmAddAppointment.vb",
+              "RelativeDocumentMoniker": "Appointments\\frmAddAppointment.vb",
+              "ToolTip": "F:\\IKADO\\Semester 5\\Client Server Programming\\Appointment System\\Appointments\\frmAddAppointment.vb [Design]",
+              "RelativeToolTip": "Appointments\\frmAddAppointment.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-09T08:02:58.299Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAppointmentsList.vb [Design]",
+              "DocumentMoniker": "F:\\IKADO\\Semester 5\\Client Server Programming\\Appointment System\\Appointments\\frmAppointmentsList.vb",
+              "RelativeDocumentMoniker": "Appointments\\frmAppointmentsList.vb",
+              "ToolTip": "F:\\IKADO\\Semester 5\\Client Server Programming\\Appointment System\\Appointments\\frmAppointmentsList.vb [Design]",
+              "RelativeToolTip": "Appointments\\frmAppointmentsList.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-29T09:17:10.68Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExcelSpecializationReport.vb",
+              "DocumentMoniker": "F:\\IKADO\\Semester 5\\Client Server Programming\\Appointment System\\Report\\ExcelSpecializationReport.vb",
+              "RelativeDocumentMoniker": "Report\\ExcelSpecializationReport.vb",
+              "ToolTip": "F:\\IKADO\\Semester 5\\Client Server Programming\\Appointment System\\Report\\ExcelSpecializationReport.vb",
+              "RelativeToolTip": "Report\\ExcelSpecializationReport.vb",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-29T08:37:09.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmSpecializationsList.vb",
+              "DocumentMoniker": "F:\\IKADO\\Semester 5\\Client Server Programming\\Appointment System\\Specializations\\frmSpecializationsList.vb",
+              "RelativeDocumentMoniker": "Specializations\\frmSpecializationsList.vb",
+              "ToolTip": "F:\\IKADO\\Semester 5\\Client Server Programming\\Appointment System\\Specializations\\frmSpecializationsList.vb",
+              "RelativeToolTip": "Specializations\\frmSpecializationsList.vb",
+              "ViewState": "AgIAADYAAAAAAAAAAAAjwEYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-29T08:35:04.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmSpecializationsList.vb [Design]",
+              "DocumentMoniker": "F:\\IKADO\\Semester 5\\Client Server Programming\\Appointment System\\Specializations\\frmSpecializationsList.vb",
+              "RelativeDocumentMoniker": "Specializations\\frmSpecializationsList.vb",
+              "ToolTip": "F:\\IKADO\\Semester 5\\Client Server Programming\\Appointment System\\Specializations\\frmSpecializationsList.vb [Design]",
+              "RelativeToolTip": "Specializations\\frmSpecializationsList.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-29T08:32:38.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExcelDoctorReport.vb",
+              "DocumentMoniker": "F:\\IKADO\\Semester 5\\Client Server Programming\\Appointment System\\Report\\ExcelDoctorReport.vb",
+              "RelativeDocumentMoniker": "Report\\ExcelDoctorReport.vb",
+              "ToolTip": "F:\\IKADO\\Semester 5\\Client Server Programming\\Appointment System\\Report\\ExcelDoctorReport.vb",
+              "RelativeToolTip": "Report\\ExcelDoctorReport.vb",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-29T08:28:52.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExcelUserReport.vb",
+              "DocumentMoniker": "F:\\IKADO\\Semester 5\\Client Server Programming\\Appointment System\\Report\\ExcelUserReport.vb",
+              "RelativeDocumentMoniker": "Report\\ExcelUserReport.vb",
+              "ToolTip": "F:\\IKADO\\Semester 5\\Client Server Programming\\Appointment System\\Report\\ExcelUserReport.vb",
+              "RelativeToolTip": "Report\\ExcelUserReport.vb",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-29T08:10:29.39Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
